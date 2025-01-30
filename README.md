@@ -46,9 +46,6 @@ shemena-tibebe-park-ecommerce/
 │   │   │       └── supplierService.js   # 🤝 Vendor API integrations
 │   └── scripts/               # 🔄 DB migrations/seeds
 │
-├── inventory-module/          # ⚙️ (Optional) Microservice
-│   └── src/                   # 📡 gRPC/GraphQL endpoints
-│
 ├── docker/                    # 🐳 Containerization
 │   ├── nginx/                 # 🔄 Reverse proxy config
 │   └── backend.Dockerfile     # 🐍 Node.js production setup
