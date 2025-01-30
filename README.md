@@ -15,7 +15,6 @@ A full-stack e-commerce platform with integrated inventory management for textil
 - 📊 Supplier performance analytics
 - 🔒 Role-based access control
 
-
 ## 📂 Project Structure
 
 ```bash
@@ -57,6 +56,21 @@ shemena-tibebe-park-ecommerce/
 └── docs/                      # 📚 Technical documentation
     ├── API-SPEC.md            # 📑 OpenAPI 3.0 specifications
     └── WORKFLOWS.md
- ````
+ ```
+ # Clone repository 
  
-        # 🔄 Inventory replenishment logic
+ ``` bash
+git clone https://github.com/Match-all/Inventory-Management-system-with-E-commerce
+ ```
+
+# Install dependencies
+```bash
+cd shemena-tibebe-park-ecommerce
+npm run setup
+ ```
+
+# Start development servers
+```bash
+npm run dev
+```
+ 
