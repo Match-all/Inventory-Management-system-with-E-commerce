@@ -8,6 +8,14 @@
 
 A full-stack e-commerce platform with integrated inventory management for textile products.
 
+## 🌟 Key Features
+- 🧶 Textile-specific product management
+- 📦 Real-time multi-warehouse inventory tracking
+- 🤖 AI-driven stock replenishment
+- 📊 Supplier performance analytics
+- 🔒 Role-based access control
+
+
 ## 📂 Project Structure
 
 ```bash
@@ -48,4 +56,7 @@ shemena-tibebe-park-ecommerce/
 │
 └── docs/                      # 📚 Technical documentation
     ├── API-SPEC.md            # 📑 OpenAPI 3.0 specifications
-    └── WORKFLOWS.md           # 🔄 Inventory replenishment logic
+    └── WORKFLOWS.md
+ ````
+ 
+        # 🔄 Inventory replenishment logic
